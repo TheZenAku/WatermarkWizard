@@ -15,4 +15,4 @@ Clone o repositório e instale as dependências necessárias:
 ```bash
 git clone https://github.com/TheZenAku/WatermarkWizard.git
 cd WatermarkWizard
-pip install -r requirements.txt
+pip install pillow
